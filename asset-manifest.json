@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.75601d70.css",
-    "main.js": "/react-gh-pages/static/js/main.fa5e6290.js",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "/react-gh-pages/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/fontawesome-webfont.eot": "/react-gh-pages/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/react-gh-pages/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/Geju.jpeg": "/react-gh-pages/static/media/Geju.b16b3e8ffb98d4be1117.jpeg",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "/react-gh-pages/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/react-gh-pages/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "index.html": "/react-gh-pages/index.html",
-    "main.75601d70.css.map": "/react-gh-pages/static/css/main.75601d70.css.map",
-    "main.fa5e6290.js.map": "/react-gh-pages/static/js/main.fa5e6290.js.map"
+    "main.css": "/reactcard/static/css/main.1ba8fa16.css",
+    "main.js": "/reactcard/static/js/main.de788ff0.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/reactcard/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/reactcard/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/reactcard/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/Geju.jpeg": "/reactcard/static/media/Geju.b16b3e8ffb98d4be1117.jpeg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/reactcard/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/reactcard/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/reactcard/index.html",
+    "main.1ba8fa16.css.map": "/reactcard/static/css/main.1ba8fa16.css.map",
+    "main.de788ff0.js.map": "/reactcard/static/js/main.de788ff0.js.map"
   },
   "entrypoints": [
-    "static/css/main.75601d70.css",
-    "static/js/main.fa5e6290.js"
+    "static/css/main.1ba8fa16.css",
+    "static/js/main.de788ff0.js"
   ]
 }
